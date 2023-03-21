@@ -1,13 +1,20 @@
-#one {
-    background-color: red;
-    color: white;
+.odd-times {
+    background-color: rgba(212, 88, 121, 0.926);
+    color: black;
     font-size: 32px;
-    font-weight: 700;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
 }
 
 
-.button {
-    background-color: orange;
-    font-size:18px;
+#two-timez  {
+    color: blue;
+    font-size: 36px;
+}
+
+#no-4   {
+    background-color: rgb(72, 211, 37);
+    font-size: 24px;
+    font-weight: 700;
 }
 
