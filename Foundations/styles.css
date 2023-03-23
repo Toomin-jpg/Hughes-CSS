@@ -1,20 +1,7 @@
-.odd-times {
-    background-color: rgba(212, 88, 121, 0.926);
-    color: black;
+.external   {
+    background-color: red;
+    color: white;
     font-size: 32px;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-    
-}
-
-
-#two-timez  {
-    color: blue;
-    font-size: 36px;
-}
-
-#no-4   {
-    background-color: rgb(72, 211, 37);
-    font-size: 24px;
+    text-align: center;
     font-weight: 700;
 }
-
