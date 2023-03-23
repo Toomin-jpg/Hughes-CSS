@@ -1,0 +1,18 @@
+.oddish {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: salmon;
+}
+
+#blu    {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigface    {
+    font-size: 24px;
+}
+
+#four  {
+    background-color: lime;
+    font-weight: 700;
+}
